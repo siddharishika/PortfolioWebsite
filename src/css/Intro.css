@@ -1,0 +1,22 @@
+#home{
+  background-image: url('https://images.unsplash.com/photo-1517547196086-e63b7ae6afb0?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fGJsYWNrJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D');
+}
+#intro-1{
+  color: rgb(209, 48, 75);
+  font-size: 3rem;
+}
+#intro-2{
+  color: white;
+  font-size: 5.5rem;
+}
+.intro{
+  margin: 4rem;
+}
+.scrol{
+  color: white;
+  margin-left: 3rem;
+  width: fit-content;
+  border-top: 0.3rem solid rgb(209, 48, 75);
+  text-wrap: wrap;
+  font-size: larger;
+}

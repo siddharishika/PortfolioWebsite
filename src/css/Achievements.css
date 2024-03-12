@@ -1,0 +1,24 @@
+.ach-1{
+    text-decoration: none;
+    color: black;
+    align-self: center;
+    font-size: 3rem;
+
+}
+a{
+    text-decoration: none;
+}
+.ach-2{
+    margin: 1px;
+    border-radius: 10px;
+}
+.ach-3{
+    background-color: lightgrey;
+}
+#achievements-1{
+    border-top: 0.7rem solid  rgb(209, 48, 75);
+    width: fit-content;
+    text-wrap: wrap;
+    font-size: 5rem;
+    
+}

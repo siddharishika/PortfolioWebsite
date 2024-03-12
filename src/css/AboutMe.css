@@ -1,0 +1,22 @@
+.me{
+    color: rgb(209, 48, 75);
+    font-size: 4rem;
+}
+.about-me{
+    border-top: 0.7rem solid  rgb(209, 48, 75);
+    width: fit-content;
+    font-size: 5rem;
+    text-wrap: wrap;
+}
+.abt-1{
+    font-size: 2rem;
+}
+.abt-3{
+    font-size: 3.5rem;
+}
+.abt-2{
+    font-size: 2rem;
+}
+.abt-4{
+    margin:1rem;
+}

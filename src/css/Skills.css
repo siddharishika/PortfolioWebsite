@@ -1,0 +1,27 @@
+#skills-1{
+    border-bottom: 0.7rem solid  rgb(209, 48, 75);
+    width: fit-content;
+    color: white;
+    font-size: 6.5rem;
+}
+.contain-3{
+   background-color: black;
+}
+.sk-1{
+    color: rgb(209, 48, 75);
+    font-size:5rem;
+}
+.sk-2{
+    color: white;
+   
+}
+.sk-3{
+    color: white;
+    font-size: 2rem;
+    border-bottom: 1px solid rgb(209, 48, 75);
+    margin: 3px;
+    text-wrap: wrap;
+}
+.sk-4{
+    font-size: x-large;
+}

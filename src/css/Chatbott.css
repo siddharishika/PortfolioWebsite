@@ -1,0 +1,53 @@
+#chatt{
+    position: fixed;
+    right: 0px;
+    bottom: 3.5rem;
+
+}
+
+.ic{
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+    background: hsl(188, 100%, 37%, 0);
+    border: none;
+}
+.btn{
+    right: 0px;
+    background-color: black;
+    color: white;
+    width: fit-content;
+}
+.contain{
+    display: flex;
+    justify-content: space-between;
+}
+.tex{
+    margin: auto;
+}
+.react-chatbot-kit-chat-bot-message{
+    background-color: black;
+}
+.react-chatbot-kit-chat-bot-avatar{
+    color: black;
+    background-color: white;
+}
+.react-chatbot-kit-chat-bot-message-arrow{
+   visibility: hidden;
+}
+.widget-button{
+    background-color: white;
+    color: black;
+    margin: 0.2rem;
+    border: 0.1rem solid  rgb(209, 48, 75);
+    width: 100%;
+}
+.react-chatbot-kit-chat-input-form{
+    visibility: hidden;
+    background-color: black;
+
+}
+.react-chatbot-kit-chat-container{
+    border: 0.2rem solid black;
+
+}

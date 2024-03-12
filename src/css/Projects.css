@@ -1,0 +1,28 @@
+ #pros{
+    border-top: 0.7rem solid  rgb(209, 48, 75);
+    text-wrap: wrap;
+    width: fit-content;
+    font-size: 5rem;
+    
+}
+#pros-2{
+    font-size: 4rem;
+}
+.pro-4 , .pro-6{
+    border-left: 2px solid black;
+}
+
+
+
+#projects-icon{
+    color: rgb(209, 48, 75);
+}
+.pro-5{
+    font-size: 3rem;
+}
+i{
+    color: black;
+}
+.techs{
+    font-size: 2rem;
+}

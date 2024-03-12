@@ -1,0 +1,25 @@
+.edu-1{
+    border-left: 3px solid black;
+    margin-left: 1vw;
+}
+.edu-2{
+    border-left:0.3rem solid rgb(45, 38, 38) ;
+}
+.work-and-edu{
+    border-top: 0.7rem solid  rgb(209, 48, 75);
+    width: fit-content;
+    font-size: 5rem;
+    text-wrap: wrap;
+}
+.result{
+    color:  rgb(209, 48, 75);
+    margin-left: 1vw;
+    font-size: 2rem;
+}
+.edu-3{
+    margin-left: 1vw;
+    font-size: 2.5rem;
+}
+.edu-4{
+    font-size: 2rem;
+}
